@@ -1,0 +1,5 @@
+echo "Script:$0"
+echo "First name:$1"
+echo "last name:$2"
+echo "Age:$3"
+echo "You have entered $# values"

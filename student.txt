@@ -1,0 +1,26 @@
+Jones
+2143
+78
+84
+77
+
+Gondrol
+2321
+56
+58
+45
+
+RinRao
+2122
+38
+37
+65
+
+ubuntu@ip-172-31-19-240:~/samples$ cat  awksample.txt
+Name Roll Marks Sex
+megha 111 90 F
+Subir 112 91 M
+Nivay 113 70 M
+khan 114 71 M
+Rizzu 115 115 M
+nusrat 116 99 F

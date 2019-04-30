@@ -1,0 +1,10 @@
+onion
+tomato
+potato
+POTATO
+CARROT
+carrot
+12
+1
+43
+2345

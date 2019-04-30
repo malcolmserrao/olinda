@@ -1,1 +1,1 @@
-# olinda
+# ubuntu_pc

@@ -1,1 +1,2 @@
 file from the remote repo
+this is line 2 from the local repo
